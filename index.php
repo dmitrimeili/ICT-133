@@ -10,7 +10,14 @@
 /**
  *
  */
-echo "Beerthe;"
+$x=12;
+$y="hello";
+echo "<ul>";
+for($i=1;$i<10;$i++){
+    echo "<li>Produit$i</li>";
+}
+
+echo "</ul>";
 ?>
 </body>
 </html>
