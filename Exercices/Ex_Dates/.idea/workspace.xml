@@ -14,14 +14,14 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1TvGQTTaQ5UyS9qaN9jQw7HhsVb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,7 +51,8 @@
       <option name="presentableId" value="Default" />
       <updated>1574333139722</updated>
       <workItem from="1574333140843" duration="2407000" />
-      <workItem from="1574932542979" duration="4461000" />
+      <workItem from="1574932542979" duration="4102000" />
+      <workItem from="1574937461521" duration="38000" />
     </task>
     <servers />
   </component>
