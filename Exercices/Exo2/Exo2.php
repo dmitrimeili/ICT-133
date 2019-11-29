@@ -11,7 +11,7 @@
 echo "<ul>";
 $name = "";
 for ($i = 1; $i < 9; $i++) {
-    echo "<li id='div$i'>$name</li>";
+
     switch ($i) {
         case 1;
             $name = "Fabien";
@@ -41,8 +41,15 @@ for ($i = 1; $i < 9; $i++) {
             $name = "etc..";
             break;
     }
+    echo "<li id='div$i'>$name</li>";
 }
 echo "<ul>";
+echo"<br><br><br>";
+$tab = array("Joe","Jack","William","Averell");
+for ($i = 0; $i < 4; $i++) {
+    echo "<li id='div$i'>$tab[$i]</li>";
+
+}
 ?>
 
 <h1>SI-CMI2a</h1>
