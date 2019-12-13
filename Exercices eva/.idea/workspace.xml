@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/exemple_gabari" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -68,7 +68,8 @@
       <updated>1575540232095</updated>
       <workItem from="1575540233199" duration="4268000" />
       <workItem from="1575635795147" duration="5033000" />
-      <workItem from="1576142522757" duration="5333000" />
+      <workItem from="1576142522757" duration="5935000" />
+      <workItem from="1576240747708" duration="5141000" />
     </task>
     <servers />
   </component>

@@ -20,7 +20,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Calendrier-Analyse_et_conception-20191205" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,6 +46,7 @@
       <updated>1576145094874</updated>
       <workItem from="1576145095955" duration="608000" />
       <workItem from="1576146915159" duration="1520000" />
+      <workItem from="1576240407796" duration="127000" />
     </task>
     <servers />
   </component>
